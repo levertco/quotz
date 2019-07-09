@@ -1,0 +1,29 @@
+h1 {
+  text-align: center;
+  text-decoration: underline;
+}
+
+#output {
+  
+  background-color: rgba(244, 0, 225, 0.18);
+  color: #fff;
+  text-align: center;
+}
+
+p {
+  font-family: 'Handlee', cursive;
+  font-size: 1.5em;
+}
+
+span {
+  color: #000;
+}
+
+button {
+  margin: 3%;
+  color: rgb(0, 0, 0);
+}
+
+.bt:hover {
+  color: purple;
+}

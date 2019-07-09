@@ -1,0 +1,13 @@
+.jumbotron {
+  background-color: rgba(214, 6, 252, 0.17);
+}
+
+#author, #publisher {
+  width: 48%;
+  float: left;
+  margin: 1%;
+}
+
+#date {
+  margin: 1%
+}
