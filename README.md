@@ -14,7 +14,13 @@ Quotes is a web app that enables a user to quote a quote that can be upvoted or 
 4. CSS
 5. HTML
 
-### Manual
+### BDD
+
+1. The user fills the "Add Quote" form and all the fields otherwise the user will not be allowed to submit it.The author and publisher fields have to be alpha characters **only**.
+2. After filling in the user can submit the quote which will then be added at the top.
+3. The user can upvote or downvote a quote. The quote with the highest upvotes will be highlighted blue. 
+4. The user can also delete a quote
+
 
 ### Prerequisites
 1. Clone this project to your local folder, you first need to install git.
@@ -25,7 +31,7 @@ Quotes is a web app that enables a user to quote a quote that can be upvoted or 
 
 ### Setup
 1. To access this project, you will need to clone it then use this command in your terminal.
-`git clone https://github.com/levertco/Quotes`
+`git clone https://github.com/levertco/quotz`
 
 
 ## Developmentserver/deployment
@@ -37,7 +43,7 @@ Currently no known bugs detected. Contact levertco@gmail.com incase of any bugs
 
 
 ### Live site
-You can view the live site [here](https://levertco.github.io/Quotes/)
+You can view the live site [here](https://levertco.github.io/quotz/)
 
 
 ### Licence
